@@ -1,5 +1,4 @@
 public class South extends Direction{
-    int x,y;
     South(int x,int y){
         this.x = x;
         this.y = y;

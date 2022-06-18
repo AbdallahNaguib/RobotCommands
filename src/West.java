@@ -1,5 +1,4 @@
 public class West extends Direction{
-    int x,y;
     West(int x,int y){
         this.x = x;
         this.y = y;

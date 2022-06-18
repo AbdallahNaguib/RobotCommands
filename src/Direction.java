@@ -1,4 +1,5 @@
 abstract class Direction {
+    int x,y;
     abstract Direction goLeft();
     abstract Direction goRight();
     abstract Direction goForward();

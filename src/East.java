@@ -1,5 +1,4 @@
 class East extends Direction{
-    int x,y;
     East(int x,int y){
         this.x = x;
         this.y = y;

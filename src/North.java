@@ -1,5 +1,4 @@
 class North extends Direction{
-    int x,y;
     North(int x,int y){
         this.x = x;
         this.y = y;
